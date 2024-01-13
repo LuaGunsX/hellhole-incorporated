@@ -1,0 +1,15 @@
+Ticket Tool
+BOT
+ — 11/26/2023 2:15 PM
+Apply
+To create a ticket react with 
+
+TicketTool.xyz - Ticketing without clutter
+
+
+Create ticket
+
+void1z — 11/26/2023 2:16 PM
+This is to apply for the bot to be added to your server.
+
+Removing any permissions from the bot will make the bot leave the server. But you can reinvite it back if you have an authorized server 
